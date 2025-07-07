@@ -26,7 +26,8 @@ To detect and classify various types of cyber attacks using machine learning tec
 
 ## 🔗 Run on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/drive/1CJTpCzdVZr23RcXy-aEPtkq6l3HjfYxh)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CJTpCzdVZr23RcXy-aEPtkq6l3HjfYxh)
+
 
 ## 👩‍💻 Author
 
